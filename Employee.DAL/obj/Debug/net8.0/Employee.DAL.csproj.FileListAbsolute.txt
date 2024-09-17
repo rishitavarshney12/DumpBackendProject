@@ -1,0 +1,17 @@
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.DAL.deps.json
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.DAL.runtimeconfig.json
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.DAL.dll
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.DAL.pdb
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.Domain.dll
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\bin\Debug\net8.0\Employee.Domain.pdb
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.csproj.AssemblyReference.cache
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.56C2D126.Up2Date
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.dll
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\refint\Employee.DAL.dll
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.pdb
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\Employee.DAL.genruntimeconfig.cache
+C:\Users\Rishita Varshney\source\repos\Employee\Employee.DAL\obj\Debug\net8.0\ref\Employee.DAL.dll
